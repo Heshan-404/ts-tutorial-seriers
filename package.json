@@ -1,0 +1,22 @@
+{
+  "name": "ts-tutorial-seriers",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heshan-404/ts-tutorial-seriers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heshan-404/ts-tutorial-seriers/issues"
+  },
+  "homepage": "https://github.com/Heshan-404/ts-tutorial-seriers#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
