@@ -1,3 +1,11 @@
-console.log("Hello World")
+console.log("Hello World");
 
-const value : string = "This is String"
+interface Student {
+  name: string;
+  age: number;
+  address: string;
+}
+
+let value: string;
+
+value = "asd";
