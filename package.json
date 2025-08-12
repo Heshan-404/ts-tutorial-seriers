@@ -2,10 +2,10 @@
   "name": "ts-tutorial-seriers",
   "version": "1.0.0",
   "main": "src/main.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint:fix": "npx eslint . --fix && prettier --write .",
-    "prettier": "npx "
+    "lint:fix": "npx eslint . --fix && prettier --write ."
   },
   "repository": {
     "type": "git",
